@@ -27,4 +27,4 @@ This is an E-commerce website called MAGE. It was developed as a final year proj
 ![image](https://user-images.githubusercontent.com/119149299/232008526-580814c0-a33e-49a5-8b79-b755f42e9bd7.png)
 
 9. Invoice Screen
-![image](https://user-images.githubusercontent.com/119149299/232008654-70fd5f14-131f-4f63-8ccf-223300034203.png)
+![image](https://user-images.githubusercontent.com/119149299/232009054-6e500abd-b1ea-49c0-a949-ee270da70d64.png)
